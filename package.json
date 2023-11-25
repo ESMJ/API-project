@@ -1,0 +1,13 @@
+{
+  "name": "mod-4-portfolio-project",
+  "description": "<!--!!START SILENT --> # AirBnB Clone <!--!!END --> <!--!!ADD --> <!-- # `<name of application here>` --> <!--!!END_ADD -->",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
